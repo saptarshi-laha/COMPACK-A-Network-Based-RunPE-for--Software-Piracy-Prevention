@@ -1,0 +1,4 @@
+﻿  Using triplet "x86-windows" from "C:\dev\vcpkg\installed\x86-windows\"
+  Source.c
+C:\Users\sapta\source\repos\Opcode\Opcode\Source.c(66,9): warning C4013: 'memcpy' undefined; assuming extern returning int
+  Opcode.vcxproj -> C:\Users\sapta\source\repos\Opcode\Debug\Opcode.exe

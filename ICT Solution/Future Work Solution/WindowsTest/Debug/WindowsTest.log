@@ -1,0 +1,17 @@
+﻿  Using triplet "x86-windows" from "C:\dev\vcpkg\installed\x86-windows\"
+  Main.c
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(227,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(320,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(544,32): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(545,32): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(546,32): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(547,32): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(548,32): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(549,32): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(1281,13): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(1398,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(1417,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(1440,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(198,28): warning C4101: 'RICH2PE': unreferenced local variable
+C:\Users\sapta\source\repos\WindowsTest\WindowsTest\Main.c(197,21): warning C4101: 'RICH': unreferenced local variable
+  WindowsTest.vcxproj -> C:\Users\sapta\source\repos\WindowsTest\Debug\WindowsTest.exe

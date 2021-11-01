@@ -1,0 +1,17 @@
+﻿  Using triplet "x86-windows" from "C:\dev\vcpkg\installed\x86-windows\"
+  Source.c
+C:\Users\sapta\source\repos\Opcode\Opcode\Source.c(14,33): warning C4047: '=': 'encodedInstruction *' differs in levels of indirection from 'unsigned int'
+C:\Users\sapta\source\repos\Opcode\Opcode\Source.c(15,34): warning C4047: '=': 'encodedInstruction *' differs in levels of indirection from 'unsigned int'
+C:\Users\sapta\source\repos\Opcode\Opcode\Source.c(16,31): warning C4047: '=': 'encodedInstruction *' differs in levels of indirection from 'unsigned int'
+C:\Users\sapta\source\repos\Opcode\Opcode\Source.c(80,9): warning C4013: 'memcpy' undefined; assuming extern returning int
+C:\Users\sapta\source\repos\Opcode\Opcode\Source.c(541,35): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\sapta\source\repos\Opcode\Opcode\Source.c(542,39): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\sapta\source\repos\Opcode\Opcode\Source.c(17,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+C:\Users\sapta\source\repos\Opcode\Opcode\Source.c(533,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'char *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\sapta\source\repos\Opcode\Opcode\Source.c(40): warning C4731: 'main': frame pointer register 'ebp' modified by inline assembly code
+C:\Users\sapta\source\repos\Opcode\Opcode\Source.c(50): warning C4731: 'main': frame pointer register 'ebp' modified by inline assembly code
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Opcode.vcxproj -> C:\Users\sapta\source\repos\Opcode\Release\Opcode.exe

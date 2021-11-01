@@ -1,0 +1,2 @@
+﻿  Using triplet "x86-windows" from "C:\dev\vcpkg\installed\x86-windows\"
+cl : command line error D8016: '/ZI' and '/GL' command-line options are incompatible

@@ -1,0 +1,14 @@
+﻿  Using triplet "x86-windows" from "C:\dev\vcpkg\installed\x86-windows\"
+  Main.c
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(364,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(478,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(485,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(507,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(1304,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(337,28): warning C4101: 'RICH2PE': unreferenced local variable
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(336,21): warning C4101: 'RICH': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  2FileCreator.vcxproj -> C:\Users\sapta\source\repos\2FileCreator\Release\2FileCreatorServer.exe

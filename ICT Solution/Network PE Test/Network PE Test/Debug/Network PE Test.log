@@ -1,0 +1,4 @@
+﻿  Using triplet "x86-windows" from "C:\dev\vcpkg\installed\x86-windows\"
+  Prime.c
+C:\Users\sapta\source\repos\Network PE Test\Network PE Test\Prime.c(18,7): warning C4013: 'getch' undefined; assuming extern returning int
+  Network PE Test.vcxproj -> C:\Users\sapta\source\repos\Network PE Test\Debug\Network PE Test.exe

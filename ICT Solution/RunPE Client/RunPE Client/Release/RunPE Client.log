@@ -1,0 +1,16 @@
+﻿  Using triplet "x86-windows" from "C:\dev\vcpkg\installed\x86-windows\"
+  Main.c
+C:\Users\sapta\source\repos\RunPE Client\RunPE Client\Main.c(205,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\RunPE Client\RunPE Client\Main.c(349,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\RunPE Client\RunPE Client\Main.c(358,84): warning C4022: 'VirtualProtectEx': pointer mismatch for actual parameter 2
+C:\Users\sapta\source\repos\RunPE Client\RunPE Client\Main.c(359,86): warning C4022: 'WriteProcessMemory': pointer mismatch for actual parameter 2
+C:\Users\sapta\source\repos\RunPE Client\RunPE Client\Main.c(359,131): warning C4133: 'function': incompatible types - from '__int64 *' to 'SIZE_T *'
+C:\Users\sapta\source\repos\RunPE Client\RunPE Client\Main.c(360,84): warning C4022: 'VirtualProtectEx': pointer mismatch for actual parameter 2
+C:\Users\sapta\source\repos\RunPE Client\RunPE Client\Main.c(362,24): warning C4022: 'Resume': pointer mismatch for actual parameter 1
+C:\Users\sapta\source\repos\RunPE Client\RunPE Client\Main.c(187,29): warning C4101: 'RICH2PE': unreferenced local variable
+C:\Users\sapta\source\repos\RunPE Client\RunPE Client\Main.c(186,22): warning C4101: 'RICH': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RunPE Client.vcxproj -> C:\Users\sapta\source\repos\RunPE Client\Release\RunPE Client.exe

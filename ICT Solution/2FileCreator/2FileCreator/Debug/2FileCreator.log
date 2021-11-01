@@ -1,0 +1,10 @@
+﻿  Using triplet "x86-windows" from "C:\dev\vcpkg\installed\x86-windows\"
+  Main.c
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(363,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(477,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(484,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(506,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(529,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(336,28): warning C4101: 'RICH2PE': unreferenced local variable
+C:\Users\sapta\source\repos\2FileCreator\2FileCreator\Main.c(335,21): warning C4101: 'RICH': unreferenced local variable
+  2FileCreator.vcxproj -> C:\Users\sapta\source\repos\2FileCreator\Debug\2FileCreatorServer.exe
